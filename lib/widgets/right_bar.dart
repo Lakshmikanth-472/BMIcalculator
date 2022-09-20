@@ -1,9 +1,9 @@
 import 'package:bmi/constants.dart';
 import 'package:flutter/material.dart';
-class leftBar extends StatelessWidget {
+class Rightbar extends StatelessWidget {
   
   final double barWidth;//parameter
-const leftBar({Key? key ,required this.barWidth}):super(key: key)     ;
+const Rightbar({Key? key ,required this.barWidth}):super(key: key)     ;
   @override
   Widget build(BuildContext context) {
     return
